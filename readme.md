@@ -4,6 +4,7 @@ MzM Wordpress theme for our sexy collective
 
 ## Installation
 
+Install wordpress locally: https://wordpress.org/support/article/installing-wordpress-on-your-own-computer/
 Clone Repo into corresponding wordpress theme-installation e.g. /htdocs/wp-content/themes
 
 ## Usage
